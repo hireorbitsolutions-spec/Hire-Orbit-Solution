@@ -19,7 +19,7 @@ document.querySelectorAll("#navMenu a").forEach(link => {
 
 });
 
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxtqWpK0RnHp_P4Ls5q0UqUc0vztzVoWcAE4D0CXk6cB5T5nDmd0Css6hQ9H3wV0mzaOA/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/u/0/home/projects/1f5T0RSjRUUhlvABCF03yo1mI25_j4Ixk6Qyqhydd8qyhJoNa_vW-Lmaz/edit";
 
 
 const nav = document.querySelector(".nav");
