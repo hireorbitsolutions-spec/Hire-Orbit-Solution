@@ -23,7 +23,7 @@ document.querySelectorAll("#navMenu a").forEach(link => {
 // ===============================
 
 const GOOGLE_SCRIPT_URL =
-"https://script.google.com/macros/s/AKfycbzalV7qJgD-OD7HnYPZ0g0aeoGMnumzH6cdllhQRgA0dpXPakN52s6W0S17u-wjjce-pQ/exec";
+"https://script.google.com/macros/s/AKfycbzLHIjEVjzrZp94EGTZNwvoUlyeVn4NxjbMJz0WFVZWwtabRh5D0wFHm-Z3gq4QtJq3TQ/exec";
 
 
 // ===============================
